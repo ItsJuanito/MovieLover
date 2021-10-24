@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MovieLover/static/css/main.4170c17d.chunk.css",
+    "main.js": "/MovieLover/static/js/main.2fcd1453.chunk.js",
+    "main.js.map": "/MovieLover/static/js/main.2fcd1453.chunk.js.map",
+    "runtime-main.js": "/MovieLover/static/js/runtime-main.8c58f039.js",
+    "runtime-main.js.map": "/MovieLover/static/js/runtime-main.8c58f039.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/MovieLover/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.02c5704b.chunk.js": "/MovieLover/static/js/2.02c5704b.chunk.js",
+    "static/js/2.02c5704b.chunk.js.map": "/MovieLover/static/js/2.02c5704b.chunk.js.map",
+    "static/js/3.6fad2431.chunk.js": "/MovieLover/static/js/3.6fad2431.chunk.js",
+    "static/js/3.6fad2431.chunk.js.map": "/MovieLover/static/js/3.6fad2431.chunk.js.map",
+    "index.html": "/MovieLover/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/MovieLover/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4170c17d.chunk.css.map": "/MovieLover/static/css/main.4170c17d.chunk.css.map",
+    "static/js/2.02c5704b.chunk.js.LICENSE.txt": "/MovieLover/static/js/2.02c5704b.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/MovieLover/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c58f039.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.02c5704b.chunk.js",
+    "static/css/main.4170c17d.chunk.css",
+    "static/js/main.2fcd1453.chunk.js"
+  ]
+}
